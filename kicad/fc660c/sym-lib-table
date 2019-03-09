@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name fc660c-rescue)(type Legacy)(uri ${KIPRJMOD}/fc660c-rescue.lib)(options "")(descr ""))
+)
